@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// this is funny comment
+
 int main() {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
